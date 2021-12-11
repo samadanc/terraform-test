@@ -1,0 +1,7 @@
+/.idea/
+/private_key.txt
+/ec2_first_instance_key.pem
+/.terraform/
+*.tfstate
+*.tfstate.backup
+*.terraform.lock.hcl
